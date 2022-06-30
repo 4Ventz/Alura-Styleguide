@@ -1,0 +1,17 @@
+.chamada--produto {
+    padding-top: 2.5rem;
+
+    margin-bottom: 2.5rem;
+}
+
+.preco--produto {
+    margin-bottom: 1.75rem;
+}
+
+.imagem__produto--destaque {
+    width: 100%;
+}
+
+.botao--compra {
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,18 @@
+.cartao--descricao {
+    padding-top: 2rem;
+    padding-bottom: 1.625rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    background-color: var(--branco);
+
+    margin-bottom: 5.625rem;
+}
+
+.descricao--produto {
+    margin-bottom: .5rem;
+}
+
+.leia-mais {
+    color: var(--amarelo);
+}
